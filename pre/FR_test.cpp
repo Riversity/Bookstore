@@ -1,4 +1,4 @@
-#include"FileRiver.hpp"
+#include"MemoryRiver.hpp"
 #include<iostream>
 int main(){
   MemoryRiver<double,3> m;
